@@ -1,0 +1,8 @@
+This is a basic guide to C++
+VexCode Pro has plans to support python at some point in the future
+when that happens I strongly recommend switching to python
+
+There may be important information that i've missed or forgotten
+
+If you have any code problems, questions, or need help
+just ping me @Trent on the freyberg robotics discord

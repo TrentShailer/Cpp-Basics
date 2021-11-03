@@ -1,0 +1,4 @@
+For any of the advanced topics I recommend reading into them
+as my explanations will be very brief
+its more of a showcase of some more things that you can achieve
+with c++ than an actual guide
